@@ -378,6 +378,7 @@
 
 .gdesc-open .gdesc-inner {
   padding-bottom: 30px;
+  display: none;
 }
 
 .gdesc-closed .gslide-media {
